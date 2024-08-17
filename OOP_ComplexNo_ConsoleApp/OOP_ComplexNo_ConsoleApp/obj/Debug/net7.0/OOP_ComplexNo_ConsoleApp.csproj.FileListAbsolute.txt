@@ -1,0 +1,15 @@
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\obj\Debug\net7.0\OOP_ComplexNo_ConsoleApp.csproj.AssemblyReference.cache
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\obj\Debug\net7.0\OOP_ComplexNo_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\obj\Debug\net7.0\OOP_ComplexNo_ConsoleApp.AssemblyInfoInputs.cache
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\obj\Debug\net7.0\OOP_ComplexNo_ConsoleApp.AssemblyInfo.cs
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\obj\Debug\net7.0\OOP_ComplexNo_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\bin\Debug\net7.0\OOP_ComplexNo_ConsoleApp.exe
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\bin\Debug\net7.0\OOP_ComplexNo_ConsoleApp.deps.json
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\bin\Debug\net7.0\OOP_ComplexNo_ConsoleApp.runtimeconfig.json
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\bin\Debug\net7.0\OOP_ComplexNo_ConsoleApp.dll
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\bin\Debug\net7.0\OOP_ComplexNo_ConsoleApp.pdb
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\obj\Debug\net7.0\OOP_ComplexNo_ConsoleApp.dll
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\obj\Debug\net7.0\refint\OOP_ComplexNo_ConsoleApp.dll
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\obj\Debug\net7.0\OOP_ComplexNo_ConsoleApp.pdb
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\obj\Debug\net7.0\OOP_ComplexNo_ConsoleApp.genruntimeconfig.cache
+D:\CSharp_Trials\OOP_ComplexNo_ConsoleApp\OOP_ComplexNo_ConsoleApp\obj\Debug\net7.0\ref\OOP_ComplexNo_ConsoleApp.dll
